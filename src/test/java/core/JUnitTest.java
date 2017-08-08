@@ -16,5 +16,7 @@ public class JUnitTest {
 	
 	@After public void after() {System.out.println("After Test");}
 	@AfterClass public static void afterClass() {System.out.println("After Class");}
+	
+	
 
 }
